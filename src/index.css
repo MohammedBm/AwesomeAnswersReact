@@ -16,6 +16,10 @@ body {
   margin: 0 20px;
 }
 
-.QuestionList > *:not(:last-child) {
+.QuestionList > *:not(:last-child) {  
   margin-bottom: 10px;
+}
+
+nav > *:not(:last-child){
+  margin-right: 10px;
 }
